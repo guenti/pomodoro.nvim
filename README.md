@@ -1,5 +1,5 @@
 # pomodoro.nvim
-A Neovim plugin written (mostly) in Lua that implements the [Pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique).
+A Neovim plugin written (mostly) in Lua that implements the [Pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique). This repository is derived from [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim).
 
 ## Features
 When a timer goes off, a menu is displayed to prompt you to take a break (or start the next pomodoro) with the option to stop the Pomodoro session.
